@@ -39,9 +39,6 @@ Procedimiento:
 2	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
 3	Ingresar el precio y motivo, y presionar “Check”
 
-Nota:
-Si el artículo se le realizó Cambio de Precio y necesita registrar otros artículos del mismo código, presionar el recuadro de cantidad con el signo (+) para culminar la transacción, debe ingresar clave de autorización.
-
 -CERRAR Y ABRIR SESIÓN / BLOQUAR SISTEMA
 
 Responsable: Cajera
@@ -127,7 +124,7 @@ Procedimiento:
 1	En la parte superior, presionar el símbolo del teclado.
 2	Ingresar el código manualmente y presionar la tecla “Enter”.
 
--MULTIPLICACIÓN DE CANTIDAD
+-MULTIPLICACIÓN DE CANTIDAD (agregar cantidades a una linea)
 
 Responsable: Cajera
 
