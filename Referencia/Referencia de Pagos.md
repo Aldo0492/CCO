@@ -185,11 +185,6 @@ Procedimiento:
 10	Guardar el primer recibo en la gaveta.
 11	Entregar el segundo recibo al cliente.
 
-Nota: 
-•	Si se devuelven varios artículos en una misma devolución, el motivo de devolución va a ser el mismo para todos los artículos.
-•	Si la forma de pago no es en efectivo debe anotar signo ( - ) enviará un error si se omite.
-
-
 -ECOMMERCE VENTA EN LINEA
 
 Responsable: Cajera

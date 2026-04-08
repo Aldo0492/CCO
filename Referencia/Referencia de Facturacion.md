@@ -45,33 +45,6 @@ Este procedimiento solo se utiliza cuando:
 •	Es efectivo dejado por los clientes. 
 
 
--PEDIDOS INTEGRADOS (SUM/ SASTRERÍA/ OTROS)
-
-Responsable: Cajera
-
-Procedimiento:
-
-1	Presionar la tecla “Otros” y posteriormente “Pedidos Integrados”.
-
-•	Opción 1: Seleccionar pedido
-
-2	Seleccionar el pedido y presionar “Continuar”.
-
-•	Opción 2: Buscar por núm. de pedido
-
-2	Ingresar el núm. de pedido y presionar “Enter”.
-
-Continuación:
-
-3	Elegir la forma de pago y realizar cobro.
-
-Notas:
-•	Si el núm. de pedido inicia con:
--	SUM es de SUM
--	OTS es de Sastrería
--	OTV es de Otros
-•	En caso de ser un pedido de sastrería, se debe reimprimir la factura. Una factura se entrega al cliente y la otra debe entregarse al sastre con la prenda.
-
 -SERVICIO DE ACARREO Y ARMADO (SUM)
 
 Responsable: Cajera/ Supervisora
@@ -102,5 +75,69 @@ Procedimiento:
 
 1	Presionar la tecla “Selección Rápida“ y posteriormente “Artículos Recurrentes”.
 2	Presionar la tecla “Ticket Paquetera Perdido”, el sistema muestra el valor a cobrar.
+
+
+-COBRO SUM ABONO
+
+1 En pantalla principal presionamos el botón otros.
+2 Seguido pedidos integrados.
+3 Se despliega en pantalla listado (número de pedido, nombre del cliente)
+4 Seleccionamos el pedido que corresponde en este caso los abonos los distinguiremos de la siguiente manera (SUMA)
+5 Seleccionamos el pedido.
+6 Precionamos abonos, registrar abonos, colocamos el monto que se desea abonar y damos crear abono.
+7 Se muestra en pantalla artículos abonar más la línea de compensación de abono. 
+8 Seleccionamos formas de pago que se desea utilizar para culminar la transacción.
+
+
+-COBRO SUM VENTA (INMEDIATO, PAGADO POR ENTREGARO O DOMICILIO)
+
+1 En pantalla principal presionamos el botón otros.
+2 Seguidos pedidos integrados.
+3 Se despliega en pantalla listado (número de pedido, nombre del cliente)
+4 Seleccionamos el pedido que corresponde en este caso (SUMV)
+5 Se muestra en pantalla los artículos que pertenecen al pedido seleccionado.
+6 Presionamos forma de pago, se elige la forma de pago deseada para culminar la transacción. 
+
+-COBRO DE SATRERIA
+
+1 En pantalla principal seleccionamos el botón otros.
+2 Seguido pedidos integrados.
+3 Se despliega en pantalla (número de pedido, nombre de cliente)
+4 Seleccionamos el pedido que corresponde en este caso (OTS)
+5 Muestra en pantalla, línea con la palabra elimíname descripción del tipo de arreglo que se pidió. 
+6 Presionamos forma de pago, se escoge la forma de pago que se desea para terminar la transacción. 
+
+-COBRO DE SISOTROS OTV 
+
+1 En pantalla principal presionamos el botón otros.
+2 Seguidos pedidos integrados.
+3 Se despliega pantalla listado (numero de pedido, nombre del cliente)
+4 Seleccionamos el pedido que corresponde en este caso (OTV)
+5 Muestra en pantalla línea (ELIMINAME) la cual con autorización de supervisora se debe anular, esto en el caso específico donde la cajera deberá marcar los artículos. 
+6 En otro caso solo se desplegará en pantalla ya los artículos que pertenecen al pedido.
+7 Seleccionamos formas de pago, del lado de izquierdo de la pantalla vamos a observar la forma de pago ya registrada.
+8 Presionamos “chek” (ganchito verde) para culminar la transacción. 
+
+-COBRO DE SISOTROS OTT
+
+1 En pantalla principal presionamos el botón otros.
+2 Seguidos pedidos integrados.
+3 Se despliega en pantalla listado (número de pedido, nombre del cliente)
+4 Seleccionamos el pedido que corresponde en este caso (OTT)
+5 Muestra en pantalla línea (ELIMINAME) la cual con autorización de supervisora se deberá anular.
+6 Procedemos a confeccionar la (s) tarjeta (s) de regalo.
+7 Seleccionamos formas de pago, del lado izquierdo de la pantalla podrán observar la forma de pago ya registrada.
+8 Presionamos “check” (ganchito verde) para culminar la transacción.
+
+-COBRO DE PEDIDO TBK (tovabook)
+
+1 En pantalla principal presionamos el botón otros.
+2 Seguidos pedidos integrados.
+3 Se despliega pantalla listado (numero de pedido, nombre de cliente)
+4 Seleccionamos el pedido que corresponde en este caso (TBK)
+5 Muestra en pantalla línea (ELIMINAME) la cual con autorización de supervisora deberán anular.
+6 Luego procedemos a confeccionar la tarjeta de regalo por el monto que corresponde.
+7 Seleccionamos formas de pago vamos a observar del lado izquierdo de la pantalla la forma de pago ya registrada.
+8 Presionamos “check” (ganchito verde) para culminar la transacción. 
 
 
