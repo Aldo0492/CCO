@@ -169,3 +169,15 @@ Uso único o múltiple, según configuración.
 5 Automáticamente será aplicado el descuento por línea a los artículos que apliquen según la configuración del uso del cupón. 
 6 Se elige forma de pago deseada para culminar la transacción. 
 
+-CANJE DE CUPON PROMOCIONAL MONTO FIJO
+
+1 Escamemos el código de los artículos.
+2 Seleccionamos formas de pago.
+3 Presionamos la opción, CUPON PROMOCIONAL.
+4 Se despliega en pantalla ventana para escanear código QR que se encuentra impreso en el ticket que presenta el cliente.
+5 Muestra en pantalla del lado izquierdo el monto del cupón.
+6 Se podrá agregar más cupones, según configuración de la promoción.
+7 Elegimos forma de pago deseada para culminar la transacción.  
+8 El ticket con QR se guarda en la gaveta, para control de arqueo. 
+
+
