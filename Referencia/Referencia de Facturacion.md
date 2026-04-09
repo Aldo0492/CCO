@@ -141,3 +141,31 @@ Procedimiento:
 8 Presionamos “check” (ganchito verde) para culminar la transacción. 
 
 
+-CUPONES PROMOCIONALES 
+
+FUNCIONALIDAD: La funcionalidad de CUPONES PROMOCIONALES (CUPONES O TOMBOLA) permite la generación automática de cupones de descuento dentro del punto de venta, los cuales se otorgan al cliente cuando cumplen con las condiciones definidas en una promoción vigente.
+EMISION DEL CUPON: El cupón se imprime automáticamente junto con la factura o ticket de compra una vez que el sistema detecta que la compra cumple con las condiciones, el cupo se genera sin intervención manual del cajero. adicional en pantalla también se muestra la cantidad de cupones a entregar.
+1 PORCENTAJE %
+2 MONTO FIJO.
+
+EMISION DEL CUPON (TOMBOLA): En este caso al terminar una compra y esta cumpla con las condiciones de la promoción, solo en pantalla será mostrada la cantidad de cupones a entregar por el cajero (ejemplo: Cupón cosmético)
+
+USO DEL CUPON:
+1 El cupón es válido únicamente para compras futuras.
+2 Puede aplicarse según las reglas definidas en la promoción
+Fecha de expiración
+Acumulabilidad con otras promociones.
+Uso único o múltiple, según configuración.
+3 El sistema valida el cupón al momento de su redención mediante el QR o código asociado.
+
+
+-CANJE DE CUPON PROMOCIONAL PORCENTAJE %
+
+
+1 Escanear el código de los artículos.
+2 Seleccionamos formas de pago.
+3 Presionamos la opción CUPON PROMOCIONAL.
+4 Se despliega en pantalla ventana para escanea el código QR que se encuentra impreso en el ticket que presenta el cliente.
+5 Automáticamente será aplicado el descuento por línea a los artículos que apliquen según la configuración del uso del cupón. 
+6 Se elige forma de pago deseada para culminar la transacción. 
+
