@@ -27,18 +27,17 @@ Procedimiento:
 
 •	Si es promocional por departamento:
 
-4	El sistema muestra el descuento promocional que aplica, presionar la tecla “Cerrar”.
-5	Si aplica, elegir la forma de pago de la diferencia de la compra y realizar cobro.
+4	El sistema muestra el descuento promocional que aplica.
+5   Elegir la forma de pago de la diferencia de la compra y realizar cobro.
 
 •	Si es cupón de dinero:
 
 4	Presionar la tecla “Cupón Fidelización”
 5	Ingresar el código del cupón, presionar la tecla “Hecho”.
 6	Seleccionar el cupón y presionar la tecla “Cerrar”.
-7	Si aplica, elegir la forma de pago de la diferencia de la compra y realizar cobro.
+7   Elegir la forma de pago de la diferencia de la compra y realizar cobro.
 
-Nota:
-No está permitido utilizar otros tipos de cupones con este método de pago, solo efectivo y tarjetas.
+
 
 -COBRO CON CUPONES
 
@@ -115,9 +114,6 @@ Procedimiento:
 4	Realizar el cobro en el POS correspondiente.
 5	Ingresar el valor del voucher del POS, presionar “Check” y posteriormente “Guardar”.
 
-Nota:
-•	Si la tarjeta es Amex solo utilizar el POS BAC
-•	Si hay promoción con Banco General utilizar el POS de Banco General
 
 
 -COBRO CON POS INTEGRADO
@@ -130,7 +126,7 @@ Procedimiento:
 2	Presionar la tecla “Formas de Pago” y posteriormente “Tarjeta”.
 3	Seleccionar el banco según el POS integrado.
 4	Ingresar el monto a cobrar y presionar “Check”.
-5	Presionar la Tecla “Guardar” y posteriormente el tipo de pago, por lo general “Débito/Crédito”.
+5	Presionar la Tecla “Guardar” y posteriormente el tipo de pago “Débito/Crédito”.
 6	Realizar el cobro en el POS correspondiente.
 
 
@@ -157,7 +153,7 @@ Procedimiento:
 •	Si es todo el recibo:
 
 5	Presionar “Devolver todo el Recibo”.
-6	Elegir el motivo de devolución y presionar la tecla “Hecho”.
+6	Elegir el motivo de devolución.
 7	Verificar la forma de pago. Si es otra forma de pago, eliminar el ganchito negro y presionar la tecla “Devolver Recibo”.
 
 Continuación:
@@ -174,16 +170,15 @@ Responsable: Cajera/ Supervisora
 Procedimiento:
 
 1	La cajera debe notificar a la supervisora que hay una devolución sin factura.
-2	Si el cliente solicita que se le devuelva a su tarjeta de crédito, la supervisora debe solicitar autorización a Gerencia.
-3	Escanear cada artículo.
-4	Seleccionar la columna donde aparece la cantidad de la referencia.
-5	Presionar el signo ( - ) y la tecla “Check”.
-6	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
-7	Elegir el motivo de devolución (solamente se anota en la primera línea del articulo) y presionar la tecla “Hecho”.
-8	Elegir la forma de pago y presionar la tecla “Check”.
-9	Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.
-10	Guardar el primer recibo en la gaveta.
-11	Entregar el segundo recibo al cliente.
+2	Escanear cada artículo.
+3	Seleccionar la columna donde aparece la cantidad de la referencia.
+4	Presionar el signo ( - ) y la tecla “Check”.
+5	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
+6	Elegir el motivo de devolución (solamente se anota en la primera línea del articulo) y presionar la tecla “Hecho”.
+7	Elegir la forma de pago y presionar la tecla “Check”.
+8	Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.
+9	Guardar el primer recibo en la gaveta.
+10	Entregar el segundo recibo al cliente.
 
 -ECOMMERCE VENTA EN LINEA
 
@@ -277,7 +272,7 @@ Recibo 2 Comprobante PLUXEE es guardado en la bandeja.
 6 Se despliega pantalla (Voucher)
 7 Se escanea código de barra, la pantalla se despliega nuevamente si de desea agregar otro, de lo contrario le damos al botón HECHO para continuar con la transacción.
 8 Seleccionamos formas de pago.
-9 Para terminar la transacción se escoge la forma de pago que se desea.
+9 Para terminar la transacción se elije la forma de pago que se desea.
 10 Culminamos con ganchito verde y el botón de guardar.
 11 Emitirá solo factura electrónica y el pluxee papel es guardado en la bandeja.
 

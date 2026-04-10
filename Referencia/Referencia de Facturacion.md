@@ -36,7 +36,7 @@ Responsable: Cajera/ Supervisora
 Procedimiento:
 
 1	La supervisora debe presionar la tecla “Selección Rápida“ y posteriormente “Artículos Recurrentes”.
-2	La supervisora debe presionar la tecla “Paquetes Olvidados” e ingresar el monto a cobrar autorizado por Gerencia.
+2	La supervisora debe presionar la tecla “Paquetes Olvidados” e ingresar el monto a cobrar.
 3	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
 
 Nota: 
@@ -144,7 +144,7 @@ Procedimiento:
 -CUPONES PROMOCIONALES 
 
 FUNCIONALIDAD: La funcionalidad de CUPONES PROMOCIONALES (CUPONES O TOMBOLA) permite la generación automática de cupones de descuento dentro del punto de venta, los cuales se otorgan al cliente cuando cumplen con las condiciones definidas en una promoción vigente.
-EMISION DEL CUPON: El cupón se imprime automáticamente junto con la factura o ticket de compra una vez que el sistema detecta que la compra cumple con las condiciones, el cupo se genera sin intervención manual del cajero. adicional en pantalla también se muestra la cantidad de cupones a entregar.
+EMISION DEL CUPON: El cupón se imprime automáticamente junto con la factura o ticket de compra una vez que el sistema detecta que la compra cumple con las condiciones, el cupon se genera sin intervención manual del cajero. Adicional en pantalla también se muestra la cantidad de cupones a entregar.
 1 PORCENTAJE %
 2 MONTO FIJO.
 

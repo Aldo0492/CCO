@@ -9,6 +9,7 @@ Procedimiento:
 3	Escanear artículos y notificar a la supervisora para aplicar el descuento de asociado. 
 4	La supervisora debe presionar la tecla “Descuento Asociado”.
 5	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
+6   El descunto se aplica automaticamente.
 
 
 -DESCUENTO GENERAL

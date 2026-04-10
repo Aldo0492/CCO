@@ -4,7 +4,7 @@ Responsable: Génesis/ Supervisora
 
 Procedimiento:
 
-La supervisora debe mantener los recibos emitidos a fin de día por cada cierre de caja realizados a los diferentes cajeros.
+La supervisora debe mantener los recibos emitidos a fin de día por cada cierre de caja realizados.
 La génesis o supervisora debe escanear su carnet para su activación.
 Presionar la tecla “Selección Rápida” y posteriormente “Funciones de Caja”.
 Presionar la tecla “Arqueo de Caja”.
@@ -16,7 +16,7 @@ Ingresar detalle de otros métodos de pago. Al hacer clic en la tecla (+), puede
 Si un método de pago no aparece en la pantalla, presionar “Agregar Otro Método de Pago”.
 Presionar “Confirmar Arqueo de Caja”.
 Si el arqueo tiene diferencia lo indicará en la pantalla, presionar “Cancelar” para revisar la diferencia, o “Confirmar” para aceptar la diferencia.
-Escanear el carnet de la génesis y posteriormente el carnet de la supervisora. Presionar OK.
+Escanear el carnet de la génesis y posteriormente el carnet de la supervisora.
 
 
 -CONSOLIDADO
@@ -35,5 +35,5 @@ Procedimiento:
 8 Al finalizar el consolidado, presionar "Registrar Desglose".                                                                                              
 9 Si el consolidado tiene diferencia lo indicará en la pantalla, presionar "Cancelar" para revisar la diferencia, o "Confirmar" para aceptar la diferencia. 
 10 Presionar "Aprobar Desglose" y posteriormente "Confirmar y Generar PDF".                                                                                  
-11 Escanear el carnet de la supervisora y posteriormente el carnet del gerente. Presionar OK.                                                                
+11 Escanear el carnet de la supervisora y posteriormente el carnet del gerente.                                                                
 12 Cerrar el reporte de consolidado.       

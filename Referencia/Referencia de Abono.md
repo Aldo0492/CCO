@@ -8,12 +8,11 @@ Procedimiento:
 2  Ingresar la cedula, pasaporte o nombre del cliente y presionar la tecla "Añadir a Recibo". 
 3  Presionar la tecla "Abonos" y posteriormente "Anular Abono".                               
 4  El sistema solicita clave de autorización, la supervisora debe escanear su carnet.         
-5  Validar el número de contrato para su anulación y presionar la tecla "Anular".             
-6  Ingresar el motivo y presionar la tecla "Anular".                                          
-7  Elegir la forma de pago y realizar devolución.                                             
-8  Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.      
-9  Guardar el primer recibo en la gaveta.                                                     
-10 Entregar el segundo recibo al cliente.                                                     
+5  Validar el número de contrato para su anulación y presionar la tecla "Anular".                                                       
+6  Elegir la forma de pago y realizar devolución.                                             
+7  Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.      
+8  Guardar el primer recibo en la gaveta.                                                     
+9  Entregar el segundo recibo al cliente.                                                     
 
 
 -CONSULTA DE ABONO
@@ -26,15 +25,6 @@ Procedimiento:
 1 Presionar la tecla "Seleccionar Cliente".                                                 
 2 Ingresar la cedula, pasaporte o nombre del cliente y presionar la tecla "Añadir a Recibo" 
 3 Presionar la tecla "Abonos" y posteriormente "Consultar Abonos".                          
-
-- Por selección rápida
-Presionar la tecla “Selección Rápida” y posteriormente “Funciones de Caja”.
-Presionar la tecla “Abonos por Vencimiento”.
-Ingresar Fecha Desde y Fecha Hasta, posteriormente presionar la tecla
-“Consultar”
-
-Selección de abono:
-
 4 Seleccionar el abono y presionar la tecla "Ver Historial".
 
 
@@ -70,7 +60,7 @@ Responsable: Supervisora
 Procedimiento:
 
 1 Presionar la tecla "Devolución de Recibo".
-2  El sistema solicita clave de autorización, la supervisora debe escanear su carnet.                                                                                                 
+2 El sistema solicita clave de autorización, la supervisora debe escanear su carnet.                                                                                                 
 3 Ingresar el ID del recibo y presionar la tecla "Hecho".                                                                                                                   
 4 Si el recibo únicamente tiene el pago de abono a devolver, presionar "Devolver todo el recibo". Si el recibo tiene más artículos que no se van a devolver, presionar "Devolver Artículos Individuales".
 5 Seleccionar los pagos de abono a devolver y presionar el botón de las flechas con el número '1' en el medio.              
@@ -80,12 +70,8 @@ Procedimiento:
 9 Guardar el primer recibo en la gaveta.                                                                                                                           
 10 Entregar el segundo recibo al cliente.                                                                                   
 
-**Nota:**
 
-**[NO UTILIZAR]{.underline}** este proceso para anular un abono.
-
-
--ENTREGA DE ABONO
+-RETIRO DE ABONO
 
 Responsable: Cajera
 

@@ -72,16 +72,15 @@ Procedimiento:
 1	Presionar la tecla “Seleccionar Cliente“.
 2	Ingresar la cedula, pasaporte o nombre del cliente y presionar la tecla “Añadir a Recibo“.
 3	Presionar la tecla “ClubWise“ y posteriormente “Consultar Clubs“.
-4	El sistema muestra los clubs del cliente. Si no aparece, presionar “Ver Inactivos”.
-5	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
-6	Presionar “Ver Historial” y posteriormente “Devolver $$$”.
-7	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
-8	Elegir la forma de pago y realizar devolución.
-9	Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.
-10	Guardar el primer recibo en la gaveta.
-11	Entregar el segundo recibo al cliente.
+4	El sistema muestra los clubs del cliente, se elije el que corresponde.
+5	Presionar “Ver Historial” y posteriormente “Devolver $$$”.
+6	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
+7	Elegir la forma de pago y realizar devolución.
+8	Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.
+9	Guardar el primer recibo en la gaveta.
+10	Entregar el segundo recibo al cliente.
 
--PAGO DE CUOTAS DE CLUB
+-PAGO DE CLUB
 
 Responsable: Cajera
 
@@ -104,7 +103,7 @@ Procedimiento:
 3	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
 4	Ingresar la información y presionar la tecla “Premiar”, posteriormente “OK”.
 
-Nota: El proceso de premiación se puede realizar en todas las cajas. Se emite el proceso de premiación al mantener enlace de conectividad con 3 sucursales.
+Nota: Se emite el proceso de premiación al mantener enlace de conectividad con 3 sucursales.
 
 -RETIRO DE CLUB
 
@@ -114,11 +113,11 @@ Procedimiento:
 
 1	Presionar la tecla “Seleccionar Cliente”.
 2	Ingresar la cedula, pasaporte o nombre del cliente y presionar la tecla “Añadir a Recibo“.
-3	Presionar la tecla “ClubWise“ y posteriormente “Retirar Club”.
-4	Ingresar el monto a retirar en el campo “Monto Retiro” y presionar la tecla “Retirar”.
-5	Si aplica, elegir otra forma de pago y realizar cobro.
+3   Se escanean el codigo de los articulos.
+4	Presionar la tecla “ClubWise“ y posteriormente “Retirar Club”.
+5	Ingresar el monto a retirar en el campo “Monto Retiro” y presionar la tecla “Retirar”.
+6	Si aplica, elegir otra forma de pago y realizar cobro.
 
-Nota: 
--	Si el cliente está afiliado a BeYou automáticamente acumula puntos.
--	Si el cliente solicita retirar de los saldos más antiguos, la cajera debe presionar la tecla “Distribuir” y automáticamente se restan los saldos.
+ 
+
 
