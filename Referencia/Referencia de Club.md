@@ -80,7 +80,7 @@ Procedimiento:
 9	Guardar el primer recibo en la gaveta.
 10	Entregar el segundo recibo al cliente.
 
--PAGO DE CLUB
+-PAGO DE CLUB (como pagar un club)
 
 Responsable: Cajera
 
