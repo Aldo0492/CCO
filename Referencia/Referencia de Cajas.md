@@ -142,3 +142,15 @@ Opción 2:
 1	Escanear o seleccionar el producto.  
 2	Presionar la tecla “Cambiar Cantidad”.
 3	Ingresar la cantidad y presionar “Check”.
+
+
+-REIMPRECION DE FACTURA REGALO
+
+
+1 En pantalla principal, seleccionamos OTROS.
+2 Elegimos Factura Regalo.
+3 Se despliega las siguientes opciones: CANCELAR – BUSCAR RECIBO – ULTIMO RECIBO.
+4 Si se desea imprimir el ultimo recibo registrado, seleccionamos ULTIMO RECIBO, despliega en pantalla información del recibo, se elige el articulo y damos IMPRIMIR. 
+5 Si de lo contrario es un recibo que fue registrado en días anteriores, seleccionamos BUSCAR RECIBO, se despliega ventana donde ingresaremos el número de recibo que corresponde y damos hecho se elige el articulo deseado y damos imprimir.
+6 En ambos casos al finalizar seleccionamos el botón HECHO para salir de la ventana.
+

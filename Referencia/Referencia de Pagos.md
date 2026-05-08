@@ -276,3 +276,28 @@ Recibo 2 Comprobante PLUXEE es guardado en la bandeja.
 10 Culminamos con ganchito verde y el botón de guardar.
 11 Emitirá solo factura electrónica y el pluxee papel es guardado en la bandeja.
 
+
+
+-COBRO CON FORMA DE PAGO LOTERIA (I)
+
+1 Escaneamos el código de los artículos.
+2 Tomamos la opción Selección rápida.
+3 Otros métodos de pago, seguido Lotería (I)
+4 Se despliega pantalla (Validación de Lotería)
+5 Se escanea el código impreso en los (chances o billetes)
+6 Nos muestra información: Si es premiado nos indica el valor y cuando fue premiado, de no ser premiado muestra valor en 0.00, tambiem mostrara si es un chance o billete premiado, pero ya pasado tiempo de vencimiento el cual no podrá ser canjeado.
+7 Ya escaneado todos los códigos barra de los chances o billetes, seleccionamos el botón AGREGAR PAGO
+8 No vamos a formas de pago, veremos agregada la forma de pago Lotería (I)
+9 Elegimos forma de pago deseada para completar y culminar la transacción.
+
+
+-COBRO FORMA DE PAGO MC STEVENS CONTACTLESS WALLET
+
+1 Ya marcados los códigos de barra de los artículos.
+2 Escaneamos el código para activar ahorro Stevens.
+3 Vamos a selección rápida.
+4 Otros métodos de pago, MAC STEVENS CONTACTLESS WALLET.
+5 Presionamos chek (ganchito verde), seguido GUARDAR.
+6 Se despliega recuadro operación de pago y seleccionamos la opción debito/ crédito el sistema conecta al pos de venta.
+7 El cliente acercara al pos ya sea el teléfono o el reloj para que la transacción sea aprobada.
+
