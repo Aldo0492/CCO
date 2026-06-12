@@ -15,7 +15,7 @@ Notas:
 •	También, la diferencia debe ser cancelada con la forma de pago MasterCard Stevens.
 
 
--COBRO CON CUPÓN DE FIDELIZACIÓN BE YOU
+-COBRO CON CUPÓN BE YOU
 
 Responsable: Cajera
 
@@ -32,7 +32,7 @@ Procedimiento:
 
 •	Si es cupón de dinero:
 
-4	Presionar la tecla “Cupón Fidelización”
+4	Presionar la tecla “Cupón BE YOU”
 5	Ingresar el código del cupón, presionar la tecla “Hecho”.
 6	Seleccionar el cupón y presionar la tecla “Cerrar”.
 7   Elegir la forma de pago de la diferencia de la compra y realizar cobro.

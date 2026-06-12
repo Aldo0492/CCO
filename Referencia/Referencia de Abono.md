@@ -113,3 +113,16 @@ Procedimiento:
 3 Presionar la tecla "Abonos" y posteriormente "Pagar Abono".                                                                  
 4 Hacer clic en "Monto Pago", ingresar el valor en "Monto por Pagar", presionar la tecla "Check" y posteriormente "Siguiente". 
 5 Elegir la forma de pago y realizar cobro.   
+
+
+-SACADO A LA VENTA  
+
+1 Presionar la tecla Seleccionar Cliente. 
+2 Ingresa cedula o pasaporte del cliente y presionar añadir a recibo. 
+3 Elegimos el botón Abonos, seguido de Consultar Abono. 
+4 Se despliega lista de abono activos.  
+5 Seleccionamos el abono deseado, y le damos a ver historial. 
+6 En la parte inferior de la pantalla tomamos la opción SACAR A LA VENTA. 
+7 Nos pide clave de autorización, supervisora escanea su carnets. 
+8 En el siguiente recuadro se valida que sea el abono correcto para anular y damos hechos. 
+9 Se despliega mensaje de sacado a la venta y el número de abono, salimos de la ventana con la opción OK. 

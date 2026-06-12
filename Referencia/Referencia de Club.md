@@ -114,10 +114,21 @@ Procedimiento:
 1	Presionar la tecla “Seleccionar Cliente”.
 2	Ingresar la cedula, pasaporte o nombre del cliente y presionar la tecla “Añadir a Recibo“.
 3   Se escanean el codigo de los articulos.
-4	Presionar la tecla “ClubWise“ y posteriormente “Retirar Club”.
+4	Presionar la tecla club wise y posteriormente retiro club. Si el cliente mantiene saldos ocultos, presionar Ver Inactivos, solicitara clave de supervisora.
 5	Ingresar el monto a retirar en el campo “Monto Retiro” y presionar la tecla “Retirar”.
 6	Si aplica, elegir otra forma de pago y realizar cobro.
 
  
+-DEVOLUCION RETIRO CLUB 
 
+ 
+
+1 En pantalla principal seleccionamos devolución a recibo 
+2 Sistema pide clave de autorización, supervisora escanea el carnet. 
+3 Se despliega pantalla, ingresamos número de recibo a devolver. 
+4 Tomamos la opción devolver todo el recibo, se debe mantener la forma de pago. 
+5 Presionamos el botón devolver recibo. 
+6 Veremos en pantalla los artículos a devolver. 
+7 Nos vamos a formas de pago y culminamos con el chek (ganchito verde). 
+8 Automáticamente el saldo es devuelto al club. 
 
