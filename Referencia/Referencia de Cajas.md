@@ -18,6 +18,57 @@
 2	Presionar “Si” para confirmar que desea cancelar el recibo de compra.
 3	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
 
+•   DEVOLUCIÓN CON FACTURA
+
+Responsable: Cajera/ Supervisora
+
+Procedimiento:
+
+1	La cajera debe notificar a la supervisora que hay una devolución con factura.
+2	La supervisora debe presionar la tecla “Devolución de Recibo”.
+3	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
+4	Ingresar el número de recibo y presionar la tecla “Hecho”.
+
+•	Si son artículos individuales:
+
+5	Presionar “Devolver Artículos Individuales”.
+6	Seleccionar los artículos a devolver y presionar el botón de las flechas:
+•	Si la cantidad es 1, presionar el primer botón, ‘ 1 ’.
+•	Si la cantidad es todos, presionar el segundo botón, ‘*’
+•	Si la cantidad es parcial, presionar el tercer botón.
+7	Cuando ya están los artículos a devolver, presionar “Devolver Recibo”.
+
+•	Si es todo el recibo:
+
+5	Presionar “Devolver todo el Recibo”.
+6	Elegir el motivo de devolución.
+7	Verificar la forma de pago. Si es otra forma de pago, eliminar el ganchito negro y presionar la tecla “Devolver Recibo”.
+
+Continuación:
+
+8	Elegir la forma de pago y realizar devolución.
+9	Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.
+10	Guardar el primer recibo en la gaveta y entregar el segundo recibo al cliente.
+
+
+•  DEVOLUCIÓN SIN FACTURA
+
+Responsable: Cajera/ Supervisora
+
+Procedimiento:
+
+1	La cajera debe notificar a la supervisora que hay una devolución sin factura.
+2	Escanear cada artículo.
+3	Seleccionar la columna donde aparece la cantidad de la referencia.
+4	Presionar el signo ( - ) y la tecla “Check”.
+5	El sistema solicita clave de autorización, la supervisora debe escanear su carnet.
+6	Elegir el motivo de devolución (solamente se anota en la primera línea del articulo) y presionar la tecla “Hecho”.
+7	Elegir la forma de pago y presionar la tecla “Check”.
+8	Se emitirán 2 recibos, colocar el sello de devolución y solicitar respectivas firmas.
+9	Guardar el primer recibo en la gaveta.
+10	Entregar el segundo recibo al cliente.
+
+
 -APERTURA DE GAVETA DE DINERO
 
 Responsable: Supervisora
