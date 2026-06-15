@@ -15,7 +15,7 @@ Notas:
 •	También, la diferencia debe ser cancelada con la forma de pago MasterCard Stevens.
 
 
--COBRO CON CUPÓN BE YOU
+-COBRO CON CUPÓN Campeon Pass
 
 Responsable: Cajera
 
@@ -32,7 +32,7 @@ Procedimiento:
 
 •	Si es cupón de dinero:
 
-4	Presionar la tecla “Cupón BE YOU”
+4	Presionar la tecla “Cupón Campeon Pass”
 5	Ingresar el código del cupón, presionar la tecla “Hecho”.
 6	Seleccionar el cupón y presionar la tecla “Cerrar”.
 7   Elegir la forma de pago de la diferencia de la compra y realizar cobro.
@@ -82,24 +82,6 @@ Procedimiento:
 1	Presionar la tecla “Selección Rápida” y posteriormente “Otros Métodos de Pago”.
 2	Seleccionar el método de pago que aplica.
 3	Ingresar el monto que aplica y presionar “Check”.
-
-
--COBRO CON MASTERCARD STEVEN’S
-
-Responsable: Cajera/ Supervisora
-
-Procedimiento:
-
-1	Escanear los artículos y posteriormente escanear la tarjeta MasterCard Steven’s para su activación del 10%.
-2	Presionar la tecla “Formas de Pago” y posteriormente “Tarjeta”.
-3	Presionar la tecla “MC Steven’s“ y posteriormente “Check“.
-4	El sistema muestra la ventana: Operación de Pago, elegir la tecla “Crédito/ Débito”.
-5	Realizar el cobro en el POS correspondiente.
-
-Notas:
-•	Si no funciona el POS integrado, se debe utilizar el POS inalámbrico.
-•	En Onix Days el 10% sube a 35%
-•	En Onix Days, si el descuento de asociado es del 25%, cambia a 15%. Si el descuento de asociado es del 20%, cambia a 10%.
 
 
 -COBRO CON POS INALÁMBRICO
@@ -240,14 +222,4 @@ Recibo 2 Comprobante PLUXEE es guardado en la bandeja.
 8 No vamos a formas de pago, veremos agregada la forma de pago Lotería (I)
 9 Elegimos forma de pago deseada para completar y culminar la transacción.
 
-
--COBRO FORMA DE PAGO MC STEVENS CONTACTLESS WALLET
-
-1 Ya marcados los códigos de barra de los artículos.
-2 Escaneamos el código para activar ahorro Stevens.
-3 Vamos a selección rápida.
-4 Otros métodos de pago, MAC STEVENS CONTACTLESS WALLET.
-5 Presionamos chek (ganchito verde), seguido GUARDAR.
-6 Se despliega recuadro operación de pago y seleccionamos la opción debito/ crédito el sistema conecta al pos de venta.
-7 El cliente acercara al pos ya sea el teléfono o el reloj para que la transacción sea aprobada.
 
