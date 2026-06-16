@@ -25,17 +25,12 @@ Procedimiento:
 2	Ingresar la cedula, pasaporte o nombre del cliente y presionar la tecla “Añadir a Recibo“.
 3	Presionar la tecla “Formas de Pago”.
 
-•	Si es promocional por departamento:
-
-4	El sistema muestra el descuento promocional que aplica.
-5   Elegir la forma de pago de la diferencia de la compra y realizar cobro.
-
 •	Si es cupón de dinero:
 
-4	Presionar la tecla “Cupón Campeon Pass”
-5	Ingresar el código del cupón, presionar la tecla “Hecho”.
-6	Seleccionar el cupón y presionar la tecla “Cerrar”.
-7   Elegir la forma de pago de la diferencia de la compra y realizar cobro.
+1	Presionar la tecla “Cupón Campeon Pass”
+2	Ingresar el código del cupón, presionar la tecla “Hecho”.
+3	Seleccionar el cupón y presionar la tecla “Cerrar”.
+4   Elegir la forma de pago de la diferencia de la compra y realizar cobro.
 
 
 
